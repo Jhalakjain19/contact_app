@@ -12,6 +12,6 @@ Made with ReactJS ,Firebase,Tailwind CSS
 
 ## OUTLOOK
 The UI given by Figma Design for the app referenced. 
-https://www.figma.com/file/GPSJ5O6dQ7cjPk9qxkHdwA/design?type=design&node-id=864%3A140&mode=design&t=iD8v3yA6aPqFVy08-1
+https://www.figma.com/file/GPSJ5O6dQ7cjPk9qxkHdwA/design?type=design&node-id=864%3A140&mode=design&t=iD8v3yA6aPqFVy08-0
 
 
